@@ -20,7 +20,7 @@ Una vez realizado el cuestionario:
 Para que usted pueda completar este quiz, siga los pasos a continuación:
 
 1. Descargue o clone el repositorio.
-2. Abra el archivo **index.html.**
+2. Abra el archivo **page-quizz.html.**
 3. Responda las preguntas.
 4. ¡Descubra su personalidad!
 
