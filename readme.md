@@ -32,4 +32,12 @@ Para que usted pueda completar este quiz, siga los pasos a continuación:
 - CSS3.
 - JavaScript.
 
+---
+### Integrantes:
+**Quiroz Ornella** - *Propietario*        
+**Palacios Tobias** - *Colaborador*
+___
+
+*Gestion de Desarrollo de Software - 2026*
+
 
